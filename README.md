@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hey "👋" wassup</h1>
+<h1 align="left">Hey "👋" wassup!</h1>
 
 ###
 
